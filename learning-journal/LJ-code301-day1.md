@@ -4,7 +4,8 @@ Today we went over "Responsive Web Design" which how most modern sites are creat
 
 The code demo we covered today shows how media queries work to dynamically detect the width of the screen and apply css rules that modify what is displayed on the screen.
 ### HTML
-```
+
+```html
 <h1>Bip Bop Boop</h1>
 <ul>
   <li>NUM 1</li>
@@ -15,7 +16,8 @@ The code demo we covered today shows how media queries work to dynamically detec
 ```
 
 ### CSS
-```body{
+```css
+body{
 
   background-color: grey;
 }
