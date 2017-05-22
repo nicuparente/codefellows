@@ -1,4 +1,4 @@
-# LJ Code 301 - Day 1
+# LJ Code 301 - Day 8
 ---
 
 # **NODEJS**
